@@ -1,6 +1,6 @@
 {
-  "type": "component",
-  "name": "test_1",
+  "type": "custom-component",
+  "name": "test-sub",
   "children": [],
   "variables": [],
   "bindings": [],
